@@ -119,6 +119,7 @@
 | 9   | https://github.com/7836246/cursor2api | `ghcr.io/sqing33/apap`<br>`sqing33/apap` | 2026-03-08 |
 | 10  | https://github.com/sqing33/job-interview-prep | `ghcr.io/sqing33/job-interview-prep`<br>`sqing33/job-interview-prep` | 2026-03-20 |
 | 11  | https://github.com/aidenconst/LunaTV.git | `ghcr.io/aidenconst/my-app`<br>`aidensxie/my-app` | 2026-05-07 |
+| 12  | https://github.com/aidenconst/LunaTV.git | `ghcr.io/aidenconst/LunaTV`<br>`aidensxie/LunaTV` | 2026-05-07 |
 ### 已同步的 Docker 镜像
 
 |   | 源镜像 | pull 镜像 | docker-compose | 同步 | 更新时间 |
