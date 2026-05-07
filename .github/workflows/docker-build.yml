@@ -13,7 +13,7 @@ on:
       image_name:
         description: "要设置的镜像名称 (例如: my-awesome-app)"
         required: true
-        default: "my-app"
+        default: "LunaTV"
       tags:
         description: "要推送的标签, 逗号分隔 (例如: latest, v1.0)"
         required: true
